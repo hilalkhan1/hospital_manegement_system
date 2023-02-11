@@ -1,13 +1,3 @@
-#Group-C  Class  Project  Hospital Managment
-#Group Members
-#Roll No  4    Hilal Khan  
-#Roll No  11   Haseeb Qaiser
-#Roll No  12   Haroon Ahmad
-#Roll No  13   Muhammad Haroon
-#Roll No  14   Abbas Ali Shah
-#Roll No  15   Zakrya Bacha
-#Roll No  52   Waqas Ahmad
-
 from person import Admin
 from hospital import Hospital
 import json
